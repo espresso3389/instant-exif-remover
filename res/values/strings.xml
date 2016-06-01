@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instant EXIF Remover</string>
+    <string name="choose_app">Choose App:</string>
+    <string name="title_save">Save the result</string>
+    <string name="message_save">How do you want to save the result?</string>
+    <string name="cap_overwrite">Overwrite</string>
+    <string name="cap_save_with_newname">With new name</string>
+
+</resources>
