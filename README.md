@@ -1,2 +1,5 @@
 # instant-exif-remover
-Instant Exif Remover Source moved from internal ancient subversion repository
+
+Instant EXIF Remover source code.
+
+https://play.google.com/store/apps/details?id=jp.espresso3389.exifedit
